@@ -1,0 +1,22 @@
+[2024-10-29T21:56:15.720+0500] {processor.py:186} INFO - Started process (PID=1053) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-10-29T21:56:15.723+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-10-29T21:56:15.729+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:15.728+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-10-29T21:56:15.772+0500] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-10-29T21:56:16.070+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.069+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2024-10-29T21:56:16.089+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.088+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2024-10-29T21:56:16.102+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.102+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2024-10-29T21:56:16.120+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.119+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_bash_operator
+[2024-10-29T21:56:16.132+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.131+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_bash_operator
+[2024-10-29T21:56:16.148+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.147+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_bash_operator
+[2024-10-29T21:56:16.162+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.161+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_bash_operator
+[2024-10-29T21:56:16.163+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.162+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:16.185+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.185+0500] {dag.py:3262} INFO - Creating ORM DAG for example_bash_operator
+[2024-10-29T21:56:16.202+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:16.201+0500] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2024-10-28 00:00:00+00:00, run_after=2024-10-29 00:00:00+00:00
+[2024-10-29T21:56:16.231+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.529 seconds
+[2024-10-29T21:57:31.780+0500] {processor.py:186} INFO - Started process (PID=1134) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-10-29T21:57:31.782+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-10-29T21:57:31.787+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:31.786+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-10-29T21:57:31.822+0500] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-10-29T21:57:31.870+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:31.869+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:57:31.908+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:31.907+0500] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2024-10-28 00:00:00+00:00, run_after=2024-10-29 00:00:00+00:00
+[2024-10-29T21:57:31.949+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.191 seconds

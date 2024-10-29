@@ -1,0 +1,190 @@
+[2024-10-29T22:00:11.065+0500] {processor.py:186} INFO - Started process (PID=1219) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:00:11.067+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:00:11.072+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.071+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:00:11.110+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:00:11.400+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.399+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:text_processing_dag
+[2024-10-29T22:00:11.418+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.417+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:text_processing_dag
+[2024-10-29T22:00:11.430+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.429+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:text_processing_dag
+[2024-10-29T22:00:11.450+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.449+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:text_processing_dag
+[2024-10-29T22:00:11.463+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.463+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:text_processing_dag
+[2024-10-29T22:00:11.474+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.474+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:text_processing_dag
+[2024-10-29T22:00:11.486+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.486+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:text_processing_dag
+[2024-10-29T22:00:11.487+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.487+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:00:11.507+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.506+0500] {dag.py:3262} INFO - Creating ORM DAG for text_processing_dag
+[2024-10-29T22:00:11.508+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:11.507+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:00:11.532+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.486 seconds
+[2024-10-29T22:00:42.102+0500] {processor.py:186} INFO - Started process (PID=1227) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:00:42.105+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:00:42.118+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:42.116+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:00:42.163+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:00:42.222+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:42.221+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:00:42.252+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:00:42.252+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:00:42.288+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.214 seconds
+[2024-10-29T22:01:12.495+0500] {processor.py:186} INFO - Started process (PID=1230) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:01:12.499+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:01:12.505+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:01:12.504+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:01:12.539+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:01:12.605+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:01:12.604+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:01:12.640+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:01:12.639+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:01:12.680+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.205 seconds
+[2024-10-29T22:01:43.372+0500] {processor.py:186} INFO - Started process (PID=1346) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:01:43.375+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:01:43.382+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:01:43.380+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:01:43.423+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:01:43.490+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:01:43.490+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:01:43.517+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:01:43.516+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:01:43.552+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.200 seconds
+[2024-10-29T22:02:13.771+0500] {processor.py:186} INFO - Started process (PID=1347) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:02:13.775+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:02:13.781+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:02:13.780+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:02:13.826+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:02:13.895+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:02:13.894+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:02:13.922+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:02:13.921+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:02:13.956+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.208 seconds
+[2024-10-29T22:02:44.192+0500] {processor.py:186} INFO - Started process (PID=1348) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:02:44.195+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:02:44.201+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:02:44.200+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:02:44.237+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:02:44.296+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:02:44.296+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:02:44.322+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:02:44.321+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:02:44.354+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.179 seconds
+[2024-10-29T22:03:14.513+0500] {processor.py:186} INFO - Started process (PID=1349) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:14.515+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:03:14.520+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:14.519+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:14.552+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:14.604+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:14.603+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:03:14.626+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:14.626+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:03:14.657+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.161 seconds
+[2024-10-29T22:03:44.970+0500] {processor.py:186} INFO - Started process (PID=1350) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:44.974+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:03:44.982+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:44.980+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:45.026+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:45.083+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:45.083+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:03:45.105+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:45.105+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:03:45.141+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.194 seconds
+[2024-10-29T22:03:56.171+0500] {processor.py:186} INFO - Started process (PID=1351) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:56.175+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:03:56.181+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:56.179+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:56.231+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:03:56.299+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:56.299+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:03:56.325+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:03:56.325+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:03:56.359+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.208 seconds
+[2024-10-29T22:04:26.552+0500] {processor.py:186} INFO - Started process (PID=1352) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:04:26.555+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:04:26.560+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:04:26.559+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:04:26.594+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:04:26.652+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:04:26.651+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:04:26.675+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:04:26.675+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:04:26.706+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.171 seconds
+[2024-10-29T22:04:40.754+0500] {processor.py:186} INFO - Started process (PID=1353) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:04:40.761+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:04:40.769+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:04:40.767+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:04:40.816+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:04:40.884+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:04:40.883+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:04:40.916+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:04:40.915+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:04:40.959+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.238 seconds
+[2024-10-29T22:05:10.772+0500] {processor.py:186} INFO - Started process (PID=1354) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:05:10.780+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:05:10.791+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:05:10.788+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:05:10.843+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:05:10.920+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:05:10.919+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:05:10.947+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:05:10.946+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:05:10.989+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.247 seconds
+[2024-10-29T22:05:45.450+0500] {processor.py:186} INFO - Started process (PID=1472) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:05:45.452+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:05:45.457+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:05:45.456+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:05:45.497+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:05:45.550+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:05:45.550+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:05:45.573+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:05:45.572+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:05:45.601+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.169 seconds
+[2024-10-29T22:06:15.901+0500] {processor.py:186} INFO - Started process (PID=1477) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:06:15.904+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:06:15.909+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:06:15.908+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:06:15.947+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:06:16.016+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:06:16.016+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:06:16.043+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:06:16.043+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:06:16.088+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.209 seconds
+[2024-10-29T22:06:46.642+0500] {processor.py:186} INFO - Started process (PID=1478) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:06:46.644+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:06:46.658+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:06:46.654+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:06:46.705+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:06:46.772+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:06:46.771+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:06:46.804+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:06:46.803+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:06:46.853+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.229 seconds
+[2024-10-29T22:07:17.413+0500] {processor.py:186} INFO - Started process (PID=1479) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:07:17.415+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:07:17.421+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:07:17.420+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:07:17.453+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:07:17.506+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:07:17.505+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:07:17.528+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:07:17.528+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:07:17.559+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.163 seconds
+[2024-10-29T22:07:47.941+0500] {processor.py:186} INFO - Started process (PID=1480) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:07:47.945+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:07:47.952+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:07:47.951+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:07:48.038+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:07:48.108+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:07:48.107+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:07:48.137+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:07:48.137+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:07:48.181+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.266 seconds
+[2024-10-29T22:08:18.681+0500] {processor.py:186} INFO - Started process (PID=1481) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:08:18.685+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:08:18.694+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:08:18.692+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:08:18.742+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:08:18.804+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:08:18.803+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:08:18.830+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:08:18.830+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:08:18.870+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.212 seconds
+[2024-10-29T22:08:49.209+0500] {processor.py:186} INFO - Started process (PID=1482) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:08:49.212+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:08:49.217+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:08:49.216+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:08:49.250+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:08:49.304+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:08:49.303+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:08:49.329+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:08:49.328+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:08:49.366+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.174 seconds
+[2024-10-29T22:09:19.782+0500] {processor.py:186} INFO - Started process (PID=1483) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:09:19.784+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:09:19.789+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:09:19.788+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:09:19.825+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:09:19.882+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:09:19.882+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:09:19.905+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:09:19.905+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:09:19.936+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.171 seconds
+[2024-10-29T22:09:50.434+0500] {processor.py:186} INFO - Started process (PID=1484) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:09:50.437+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:09:50.442+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:09:50.441+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:09:50.475+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:09:50.536+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:09:50.535+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:09:50.564+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:09:50.564+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:09:50.598+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.182 seconds
+[2024-10-29T22:10:21.061+0500] {processor.py:186} INFO - Started process (PID=1485) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:10:21.063+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:10:21.069+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:10:21.068+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:10:21.103+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:10:21.164+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:10:21.164+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:10:21.191+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:10:21.190+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:10:21.230+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.188 seconds
+[2024-10-29T22:10:51.709+0500] {processor.py:186} INFO - Started process (PID=1603) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:10:51.712+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:10:51.720+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:10:51.719+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:10:51.756+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:10:51.829+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:10:51.828+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:10:51.863+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:10:51.862+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:10:51.905+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.220 seconds
+[2024-10-29T22:11:22.201+0500] {processor.py:186} INFO - Started process (PID=1604) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:11:22.204+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:11:22.210+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:11:22.209+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:11:22.261+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:11:22.384+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:11:22.383+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:11:22.414+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:11:22.414+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:11:22.457+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.291 seconds
+[2024-10-29T22:11:52.725+0500] {processor.py:186} INFO - Started process (PID=1605) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:11:52.728+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:11:52.736+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:11:52.734+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:11:52.773+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:11:52.825+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:11:52.824+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:11:52.850+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:11:52.850+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:11:52.891+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.186 seconds
+[2024-10-29T22:12:23.169+0500] {processor.py:186} INFO - Started process (PID=1606) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:12:23.172+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py for tasks to queue
+[2024-10-29T22:12:23.178+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:12:23.177+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:12:23.216+0500] {processor.py:925} INFO - DAG(s) 'text_processing_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py
+[2024-10-29T22:12:23.280+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:12:23.280+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T22:12:23.312+0500] {logging_mixin.py:190} INFO - [2024-10-29T22:12:23.311+0500] {dag.py:4180} INFO - Setting next_dagrun for text_processing_dag to None, run_after=None
+[2024-10-29T22:12:23.359+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/dags/text_processing_dag.py took 0.210 seconds

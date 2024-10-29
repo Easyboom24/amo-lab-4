@@ -1,0 +1,29 @@
+[2024-10-29T21:55:09.474+0500] {processor.py:186} INFO - Started process (PID=996) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:55:09.477+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-29T21:55:09.483+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.482+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:55:09.507+0500] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:55:09.771+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.770+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_workday_timetable
+[2024-10-29T21:55:09.788+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.787+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_workday_timetable
+[2024-10-29T21:55:09.801+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.800+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_workday_timetable
+[2024-10-29T21:55:09.818+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.817+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_workday_timetable
+[2024-10-29T21:55:09.829+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.828+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_workday_timetable
+[2024-10-29T21:55:09.841+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.840+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_workday_timetable
+[2024-10-29T21:55:09.855+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.854+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_workday_timetable
+[2024-10-29T21:55:09.856+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.856+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:09.876+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.876+0500] {dag.py:3262} INFO - Creating ORM DAG for example_workday_timetable
+[2024-10-29T21:55:09.890+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.889+0500] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-10-29T21:55:09.917+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py took 0.459 seconds
+[2024-10-29T21:56:32.617+0500] {processor.py:186} INFO - Started process (PID=1081) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:56:32.622+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-29T21:56:32.634+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:32.632+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:56:32.658+0500] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:56:32.702+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:32.701+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:32.743+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:32.743+0500] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-10-29T21:56:32.778+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py took 0.187 seconds
+[2024-10-29T21:57:38.472+0500] {processor.py:186} INFO - Started process (PID=1140) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:57:38.474+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-29T21:57:38.480+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:38.479+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:57:38.513+0500] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-29T21:57:38.561+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:38.561+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:57:38.605+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:38.604+0500] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-10-29T21:57:38.638+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_workday_timetable.py took 0.186 seconds

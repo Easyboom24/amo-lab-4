@@ -1,0 +1,29 @@
+[2024-10-29T21:55:18.082+0500] {processor.py:186} INFO - Started process (PID=1001) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:55:18.085+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-29T21:55:18.090+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.089+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:55:18.116+0500] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:55:18.382+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.381+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_task_group
+[2024-10-29T21:55:18.402+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.401+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_task_group
+[2024-10-29T21:55:18.419+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.419+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_task_group
+[2024-10-29T21:55:18.443+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.443+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_task_group
+[2024-10-29T21:55:18.458+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.457+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_task_group
+[2024-10-29T21:55:18.472+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.471+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_task_group
+[2024-10-29T21:55:18.489+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.488+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_task_group
+[2024-10-29T21:55:18.490+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.490+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:18.516+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.515+0500] {dag.py:3262} INFO - Creating ORM DAG for example_task_group
+[2024-10-29T21:55:18.517+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:18.517+0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-10-29T21:55:18.551+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.516 seconds
+[2024-10-29T21:56:38.991+0500] {processor.py:186} INFO - Started process (PID=1086) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:56:38.994+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-29T21:56:38.999+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:38.998+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:56:39.024+0500] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:56:39.062+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:39.062+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:39.085+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:39.085+0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-10-29T21:56:39.120+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.144 seconds
+[2024-10-29T21:57:42.728+0500] {processor.py:186} INFO - Started process (PID=1145) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:57:42.731+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-29T21:57:42.738+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:42.737+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:57:42.764+0500] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-29T21:57:42.803+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:42.803+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:57:42.827+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:42.827+0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-10-29T21:57:42.871+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.161 seconds

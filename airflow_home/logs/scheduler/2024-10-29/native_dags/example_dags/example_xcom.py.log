@@ -1,0 +1,29 @@
+[2024-10-29T21:55:08.756+0500] {processor.py:186} INFO - Started process (PID=995) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:55:08.758+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-10-29T21:55:08.765+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:08.764+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:55:08.798+0500] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:55:09.125+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.122+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_xcom
+[2024-10-29T21:55:09.143+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.142+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_xcom
+[2024-10-29T21:55:09.155+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.155+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_xcom
+[2024-10-29T21:55:09.172+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.172+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_xcom
+[2024-10-29T21:55:09.184+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.183+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_xcom
+[2024-10-29T21:55:09.196+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.195+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_xcom
+[2024-10-29T21:55:09.207+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.207+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_xcom
+[2024-10-29T21:55:09.209+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.208+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:09.230+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.229+0500] {dag.py:3262} INFO - Creating ORM DAG for example_xcom
+[2024-10-29T21:55:09.243+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:09.242+0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-10-29T21:55:09.271+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.532 seconds
+[2024-10-29T21:56:31.310+0500] {processor.py:186} INFO - Started process (PID=1080) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:56:31.313+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-10-29T21:56:31.324+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:31.323+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:56:31.354+0500] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:56:31.396+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:31.396+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:31.433+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:31.432+0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-10-29T21:56:31.465+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.175 seconds
+[2024-10-29T21:57:37.183+0500] {processor.py:186} INFO - Started process (PID=1139) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:57:37.186+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-10-29T21:57:37.192+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:37.191+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:57:37.220+0500] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-10-29T21:57:37.256+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:37.255+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:57:37.289+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:37.288+0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-10-29T21:57:37.326+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.160 seconds

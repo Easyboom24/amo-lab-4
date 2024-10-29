@@ -1,0 +1,22 @@
+[2024-10-29T21:55:25.309+0500] {processor.py:186} INFO - Started process (PID=1006) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-29T21:55:25.312+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-10-29T21:55:25.318+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.317+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-29T21:55:25.357+0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-29T21:55:25.670+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.669+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_short_circuit_decorator
+[2024-10-29T21:55:25.689+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.688+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_short_circuit_decorator
+[2024-10-29T21:55:25.702+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.702+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_short_circuit_decorator
+[2024-10-29T21:55:25.721+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.720+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_short_circuit_decorator
+[2024-10-29T21:55:25.735+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.734+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_short_circuit_decorator
+[2024-10-29T21:55:25.747+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.747+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_short_circuit_decorator
+[2024-10-29T21:55:25.761+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.760+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_short_circuit_decorator
+[2024-10-29T21:55:25.762+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.762+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:25.787+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.787+0500] {dag.py:3262} INFO - Creating ORM DAG for example_short_circuit_decorator
+[2024-10-29T21:55:25.789+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:25.789+0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2024-10-29T21:55:25.821+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.535 seconds
+[2024-10-29T21:56:45.420+0500] {processor.py:186} INFO - Started process (PID=1091) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-29T21:56:45.423+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-10-29T21:56:45.428+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:45.427+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-29T21:56:45.460+0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-29T21:56:45.508+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:45.508+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:45.533+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:45.532+0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2024-10-29T21:56:45.574+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.170 seconds

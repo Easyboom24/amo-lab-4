@@ -1,0 +1,22 @@
+[2024-10-29T21:55:28.606+0500] {processor.py:186} INFO - Started process (PID=1008) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-10-29T21:55:28.608+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-10-29T21:55:28.615+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:28.613+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-10-29T21:55:28.641+0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-10-29T21:55:28.921+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:28.919+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_setup_teardown
+[2024-10-29T21:55:28.937+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:28.937+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_setup_teardown
+[2024-10-29T21:55:28.952+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:28.952+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_setup_teardown
+[2024-10-29T21:55:28.969+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:28.969+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown
+[2024-10-29T21:55:28.982+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:28.982+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_setup_teardown
+[2024-10-29T21:55:28.994+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:28.993+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown
+[2024-10-29T21:55:29.009+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:29.008+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_setup_teardown
+[2024-10-29T21:55:29.010+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:29.010+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:29.030+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:29.030+0500] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown
+[2024-10-29T21:55:29.032+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:29.031+0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-10-29T21:55:29.059+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.470 seconds
+[2024-10-29T21:56:47.070+0500] {processor.py:186} INFO - Started process (PID=1093) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-10-29T21:56:47.073+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-10-29T21:56:47.080+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:47.079+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-10-29T21:56:47.111+0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-10-29T21:56:47.155+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:47.154+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:47.187+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:47.186+0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-10-29T21:56:47.234+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.182 seconds

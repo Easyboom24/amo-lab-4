@@ -1,0 +1,22 @@
+[2024-10-29T21:55:41.872+0500] {processor.py:186} INFO - Started process (PID=1017) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-10-29T21:55:41.876+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-10-29T21:55:41.883+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:41.882+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-10-29T21:55:41.921+0500] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-10-29T21:55:42.203+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.202+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2024-10-29T21:55:42.222+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.222+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2024-10-29T21:55:42.238+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.236+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2024-10-29T21:55:42.260+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.259+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_nested_branch_dag
+[2024-10-29T21:55:42.275+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.274+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_nested_branch_dag
+[2024-10-29T21:55:42.289+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.288+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_nested_branch_dag
+[2024-10-29T21:55:42.303+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.302+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_nested_branch_dag
+[2024-10-29T21:55:42.304+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.304+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:42.328+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.327+0500] {dag.py:3262} INFO - Creating ORM DAG for example_nested_branch_dag
+[2024-10-29T21:55:42.344+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:42.343+0500] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-10-28 00:00:00+00:00, run_after=2024-10-29 00:00:00+00:00
+[2024-10-29T21:55:42.378+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.527 seconds
+[2024-10-29T21:56:56.376+0500] {processor.py:186} INFO - Started process (PID=1102) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-10-29T21:56:56.378+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-10-29T21:56:56.385+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:56.384+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-10-29T21:56:56.418+0500] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-10-29T21:56:56.455+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:56.454+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:56.492+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:56.491+0500] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-10-28 00:00:00+00:00, run_after=2024-10-29 00:00:00+00:00
+[2024-10-29T21:56:56.526+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.168 seconds

@@ -1,0 +1,22 @@
+[2024-10-29T21:55:30.201+0500] {processor.py:186} INFO - Started process (PID=1009) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-10-29T21:55:30.203+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-10-29T21:55:30.209+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.208+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-10-29T21:55:30.240+0500] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-10-29T21:55:30.499+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.498+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_sensors
+[2024-10-29T21:55:30.515+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.515+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_sensors
+[2024-10-29T21:55:30.527+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.527+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_sensors
+[2024-10-29T21:55:30.546+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.545+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_sensors
+[2024-10-29T21:55:30.557+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.557+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_sensors
+[2024-10-29T21:55:30.568+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.568+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_sensors
+[2024-10-29T21:55:30.584+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.583+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_sensors
+[2024-10-29T21:55:30.585+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.585+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:30.610+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.610+0500] {dag.py:3262} INFO - Creating ORM DAG for example_sensors
+[2024-10-29T21:55:30.612+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:30.611+0500] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-10-29T21:55:30.653+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.470 seconds
+[2024-10-29T21:56:48.377+0500] {processor.py:186} INFO - Started process (PID=1094) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-10-29T21:56:48.381+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-10-29T21:56:48.389+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:48.388+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-10-29T21:56:48.430+0500] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-10-29T21:56:48.490+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:48.490+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:48.520+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:48.520+0500] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-10-29T21:56:48.559+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.203 seconds

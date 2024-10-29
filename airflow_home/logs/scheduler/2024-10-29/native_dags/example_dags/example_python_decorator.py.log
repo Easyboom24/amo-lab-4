@@ -1,0 +1,24 @@
+[2024-10-29T21:55:34.299+0500] {processor.py:186} INFO - Started process (PID=1012) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-29T21:55:34.302+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-10-29T21:55:34.308+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.307+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-29T21:55:34.354+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.353+0500] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-10-29T21:55:34.372+0500] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-29T21:55:34.636+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.635+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_python_decorator
+[2024-10-29T21:55:34.654+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.653+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_python_decorator
+[2024-10-29T21:55:34.666+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.666+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_python_decorator
+[2024-10-29T21:55:34.685+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.684+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_python_decorator
+[2024-10-29T21:55:34.701+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.700+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_python_decorator
+[2024-10-29T21:55:34.714+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.714+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_python_decorator
+[2024-10-29T21:55:34.726+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.726+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_python_decorator
+[2024-10-29T21:55:34.727+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.727+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:34.748+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.748+0500] {dag.py:3262} INFO - Creating ORM DAG for example_python_decorator
+[2024-10-29T21:55:34.749+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:34.749+0500] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-10-29T21:55:34.780+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py took 0.499 seconds
+[2024-10-29T21:56:51.073+0500] {processor.py:186} INFO - Started process (PID=1097) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-29T21:56:51.075+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-10-29T21:56:51.081+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:51.079+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-29T21:56:51.117+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:51.116+0500] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-10-29T21:56:51.125+0500] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-29T21:56:51.161+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:51.160+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:51.187+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:51.186+0500] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-10-29T21:56:51.227+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py took 0.172 seconds

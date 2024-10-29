@@ -1,0 +1,24 @@
+[2024-10-29T21:55:32.708+0500] {processor.py:186} INFO - Started process (PID=1011) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-29T21:55:32.710+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-29T21:55:32.715+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:32.714+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-29T21:55:32.742+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:32.741+0500] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-10-29T21:55:32.750+0500] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-29T21:55:33.032+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.031+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2024-10-29T21:55:33.050+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.050+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2024-10-29T21:55:33.063+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.062+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_python_operator
+[2024-10-29T21:55:33.082+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.081+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_python_operator
+[2024-10-29T21:55:33.094+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.093+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_python_operator
+[2024-10-29T21:55:33.108+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.107+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_python_operator
+[2024-10-29T21:55:33.125+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.124+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_python_operator
+[2024-10-29T21:55:33.126+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.126+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:33.146+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.145+0500] {dag.py:3262} INFO - Creating ORM DAG for example_python_operator
+[2024-10-29T21:55:33.147+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:33.147+0500] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-29T21:55:33.176+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.484 seconds
+[2024-10-29T21:56:50.604+0500] {processor.py:186} INFO - Started process (PID=1096) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-29T21:56:50.607+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-29T21:56:50.614+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:50.613+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-29T21:56:50.644+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:50.643+0500] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-10-29T21:56:50.690+0500] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-29T21:56:50.801+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:50.800+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:50.836+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:50.835+0500] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-29T21:56:50.879+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.295 seconds

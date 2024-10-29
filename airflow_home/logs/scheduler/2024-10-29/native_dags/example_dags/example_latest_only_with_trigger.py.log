@@ -1,0 +1,22 @@
+[2024-10-29T21:55:44.803+0500] {processor.py:186} INFO - Started process (PID=1025) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-29T21:55:44.806+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-10-29T21:55:44.813+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:44.812+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-29T21:55:44.846+0500] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-29T21:55:45.110+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.109+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2024-10-29T21:55:45.127+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.126+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2024-10-29T21:55:45.139+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.139+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2024-10-29T21:55:45.158+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.157+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:latest_only_with_trigger
+[2024-10-29T21:55:45.170+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.169+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:latest_only_with_trigger
+[2024-10-29T21:55:45.181+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.180+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:latest_only_with_trigger
+[2024-10-29T21:55:45.192+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.191+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:latest_only_with_trigger
+[2024-10-29T21:55:45.193+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.193+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:45.212+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.211+0500] {dag.py:3262} INFO - Creating ORM DAG for latest_only_with_trigger
+[2024-10-29T21:55:45.226+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:45.225+0500] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-10-29 12:00:00+00:00, run_after=2024-10-29 16:00:00+00:00
+[2024-10-29T21:55:45.255+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.468 seconds
+[2024-10-29T21:56:58.025+0500] {processor.py:186} INFO - Started process (PID=1104) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-29T21:56:58.027+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-10-29T21:56:58.033+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:58.032+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-29T21:56:58.055+0500] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-29T21:56:58.091+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:58.091+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:58.128+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:58.127+0500] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-10-29 12:00:00+00:00, run_after=2024-10-29 16:00:00+00:00
+[2024-10-29T21:56:58.161+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.160 seconds

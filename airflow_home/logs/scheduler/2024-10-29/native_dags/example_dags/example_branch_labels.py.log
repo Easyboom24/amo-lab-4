@@ -1,0 +1,22 @@
+[2024-10-29T21:56:10.425+0500] {processor.py:186} INFO - Started process (PID=1049) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-29T21:56:10.428+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-29T21:56:10.433+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.432+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-29T21:56:10.463+0500] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-29T21:56:10.762+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.761+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2024-10-29T21:56:10.782+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.782+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2024-10-29T21:56:10.796+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.795+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2024-10-29T21:56:10.817+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.816+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_branch_labels
+[2024-10-29T21:56:10.831+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.830+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_branch_labels
+[2024-10-29T21:56:10.847+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.846+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_branch_labels
+[2024-10-29T21:56:10.863+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.863+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_branch_labels
+[2024-10-29T21:56:10.865+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.864+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:10.891+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.891+0500] {dag.py:3262} INFO - Creating ORM DAG for example_branch_labels
+[2024-10-29T21:56:10.909+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:10.908+0500] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2024-10-28 00:00:00+00:00, run_after=2024-10-29 00:00:00+00:00
+[2024-10-29T21:56:10.938+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.531 seconds
+[2024-10-29T21:57:28.199+0500] {processor.py:186} INFO - Started process (PID=1131) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-29T21:57:28.201+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-29T21:57:28.206+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:28.205+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-29T21:57:28.235+0500] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-29T21:57:28.275+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:28.275+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:57:28.326+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:57:28.325+0500] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2024-10-28 00:00:00+00:00, run_after=2024-10-29 00:00:00+00:00
+[2024-10-29T21:57:28.373+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.191 seconds

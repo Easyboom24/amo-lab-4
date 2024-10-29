@@ -1,0 +1,22 @@
+[2024-10-29T21:55:38.429+0500] {processor.py:186} INFO - Started process (PID=1015) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-29T21:55:38.432+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-10-29T21:55:38.438+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.437+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-29T21:55:38.475+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-29T21:55:38.798+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.797+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG:example_params_trigger_ui
+[2024-10-29T21:55:38.815+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.815+0500] {override.py:1907} INFO - Created Permission View: can edit on DAG:example_params_trigger_ui
+[2024-10-29T21:55:38.829+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.828+0500] {override.py:1907} INFO - Created Permission View: can read on DAG:example_params_trigger_ui
+[2024-10-29T21:55:38.849+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.848+0500] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:example_params_trigger_ui
+[2024-10-29T21:55:38.863+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.862+0500] {override.py:1907} INFO - Created Permission View: can create on DAG Run:example_params_trigger_ui
+[2024-10-29T21:55:38.874+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.874+0500] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:example_params_trigger_ui
+[2024-10-29T21:55:38.887+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.887+0500] {override.py:1907} INFO - Created Permission View: can read on DAG Run:example_params_trigger_ui
+[2024-10-29T21:55:38.888+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.888+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:55:38.911+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.910+0500] {dag.py:3262} INFO - Creating ORM DAG for example_params_trigger_ui
+[2024-10-29T21:55:38.912+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:55:38.912+0500] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-10-29T21:55:38.942+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.529 seconds
+[2024-10-29T21:56:54.361+0500] {processor.py:186} INFO - Started process (PID=1100) to work on /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-29T21:56:54.364+0500] {processor.py:914} INFO - Processing file /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-10-29T21:56:54.370+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:54.369+0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-29T21:56:54.401+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-29T21:56:54.485+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:54.485+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T21:56:54.508+0500] {logging_mixin.py:190} INFO - [2024-10-29T21:56:54.508+0500] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-10-29T21:56:54.544+0500] {processor.py:208} INFO - Processing /mnt/d/МАГИСТРАТУРА/semestr3/АМО/lab4/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.200 seconds
